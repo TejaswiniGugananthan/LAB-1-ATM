@@ -6,7 +6,7 @@ System.
 #  PROBLEM STATEMENT:
 To create ATM System software that will meet the needs of the applicant and help them
 to withdraw money,deposit.
-### UML DIAGRAMS:
+# UML DIAGRAMS:
 
 # USECASE
 ![Screenshot 2024-04-15 111607](https://github.com/TejaswiniGugananthan/LAB-1-ATM/assets/121222763/aa7cb935-91b6-424d-8fc1-c8e1559165dc)
